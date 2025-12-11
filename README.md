@@ -112,3 +112,45 @@ torchvision
 streamlit
 Pillow
 numpy
+
+📈 Model Architecture
+
+A simple CNN:
+
+2 Convolution layers
+
+ReLU activations
+
+MaxPooling layers
+
+2 Fully connected layers
+
+CrossEntropyLoss
+
+Adam Optimizer
+
+You can replace this with more advanced models (ResNet, MobileNet, etc.).
+
+🌐 Future Enhancements
+
+Add ResNet-18 for higher accuracy
+
+Deploy app to Streamlit Cloud
+
+Add Grad-CAM visualization
+
+Add training progress bar
+
+Support batch predictions
+
+🤝 Contributing
+
+Pull requests are welcome! If you have improvement ideas, feel free to fork and submit a PR.
+
+📄 License
+
+This project is licensed under the MIT License — feel free to use and modify it.
+
+📬 Contact
+
+If you need help with setup, training, or deployment — feel free to open an issue.
